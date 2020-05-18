@@ -1,4 +1,4 @@
-# node-js-getting-started
+# myherokusample
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -9,8 +9,9 @@ This application supports the [Getting Started on Heroku with Node.js](https://d
 Make sure you have [Node.js](http://nodejs.org/) and the [Heroku CLI](https://cli.heroku.com/) installed.
 
 ```sh
+$ git clone https://github.com/wolfman199311/myherokusample.git
 $ git clone https://github.com/heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
+$ cd myherokusample-master
 $ npm install
 $ npm start
 ```
